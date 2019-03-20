@@ -209,7 +209,7 @@ public class stringsRearrangement {
 		
 		for (int j=0; j <  3628800; j++)
 		{
-			System.out.println("fuk u bitch");
+			System.out.println("aa aa aaa");
 		}
 		//String[] inputArray = {"abc", "abd", "xxx", "xyx", "abe"};
 		//stringsRearrangement stringss = new stringsRearrangement();
